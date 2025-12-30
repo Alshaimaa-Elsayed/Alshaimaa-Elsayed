@@ -3,11 +3,16 @@
 
 
 ## 👋 Hi, I'm Alshaimaa
+Full Stack .NET & Database Developer with experience in building enterprise web
+applications and university systems (SIS & LMS). Specialized in backend development,
+database design, system integration, data migration, and reporting solutions.
 
-Full Stack .NET & Database Developer with experience building enterprise web applications
-and university systems (SIS & LMS). Strong background in backend development, 
-database design, system integration, and reporting.
-
+### 💼 What I Do
+- Build and maintain scalable web applications using ASP.NET
+- Design and optimize SQL Server databases and T-SQL solutions
+- Implement system integrations and middleware-based data exchange
+- Deliver data migration, reporting, and monitoring solutions
+- 
 ### 💻 Technical Skills
 - **Backend:** ASP.NET Core, ASP.NET MVC, Web APIs, REST
 - **Frontend:** HTML, CSS, Bootstrap, jQuery, Angular
